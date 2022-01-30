@@ -88,3 +88,7 @@ body{
     justify-content: center;
     align-items: center;
 }
+.logged{
+    height: 100%;
+    width: 100%;
+}
